@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 import Stack from 'react-bootstrap/Stack';
 
-const Education = () => {
+const WorkexperienceVol = () => {
     return (
         <div className= "container" >
             <Stack  gap={5} >
@@ -16,7 +16,7 @@ const Education = () => {
                 </div>
             </Stack>
         </div>
-    );
-};
+    )
+}
 
-export default Education;
+export default WorkexperienceVol

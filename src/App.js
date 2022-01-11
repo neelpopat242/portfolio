@@ -5,6 +5,8 @@ import './App.css';
 import Intro from './components/Intro';
 import Education from './components/Education';
 import Project from './components/Project';
+import WorkexperienceVol from './components/WorkexperienceVol';
+import ExtraActivities from './components/ExtraActivities';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
     <Intro/>
     <Education/>
     <Project/>
+    <WorkexperienceVol/>
+    <ExtraActivities/>
 
    
     {/* //<Captainshield/> */}

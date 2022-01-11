@@ -8,7 +8,7 @@ const ProjectItem = (props) => {
         window.open(props.githublink);
     }
     return (
-        <div className="bg-dark col-md-3 my-5">
+        <div className="bg-dark col-md-3 mx-3 py-3 my-5">
             <h4 className="mx-2 text-center">{props.title}</h4>
             <h5 className="mx-2 text-center">{props.stack_used}</h5>
             <p className="mx-2 text-center">{props.description}</p>
