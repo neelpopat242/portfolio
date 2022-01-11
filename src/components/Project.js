@@ -22,7 +22,9 @@ const Project = () => {
             , sed do eiusmod tempor incididunt ut labore et dolore 
             magna aliqua. Ut enim ad minim veniam, quis nostrud 
             exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-            githublink="https://neelpopat242.github.io/yn/"
+            githublink="https://github.com/neelpopat242/textutil-r"
+            weblink="https://neelpopat242.github.io/yn/"
+
           />
           <ProjectItem
             title="TextUtils "
@@ -31,7 +33,9 @@ const Project = () => {
             , sed do eiusmod tempor incididunt ut labore et dolore 
             magna aliqua. Ut enim ad minim veniam, quis nostrud 
             exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-            githublink="https://neelpopat242.github.io/yn/"
+            githublink="https://github.com/neelpopat242/textutil-r"
+            weblink="https://neelpopat242.github.io/yn/"
+
           />
 
           <ProjectItem
@@ -41,7 +45,10 @@ const Project = () => {
             , sed do eiusmod tempor incididunt ut labore et dolore 
             magna aliqua. Ut enim ad minim veniam, quis nostrud 
             exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-            githublink="https://neelpopat242.github.io/yn/"
+
+            githublink="https://github.com/neelpopat242/textutil-r"
+            weblink="https://neelpopat242.github.io/yn/"
+
           />
         </div>
       </div>
