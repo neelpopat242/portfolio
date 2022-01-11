@@ -7,6 +7,7 @@ import Education from './components/Education';
 import Project from './components/Project';
 import WorkexperienceVol from './components/WorkexperienceVol';
 import ExtraActivities from './components/ExtraActivities';
+import ToolsLanguages from './components/ToolsLanguages';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Project/>
     <WorkexperienceVol/>
     <ExtraActivities/>
+    <ToolsLanguages/>
 
    
     {/* //<Captainshield/> */}
