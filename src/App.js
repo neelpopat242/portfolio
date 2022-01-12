@@ -8,20 +8,25 @@ import Project from './components/Project';
 import WorkexperienceVol from './components/WorkexperienceVol';
 import ExtraActivities from './components/ExtraActivities';
 import ToolsLanguages from './components/ToolsLanguages';
+import Navigbar from './components/Navigbar';
 
 function App() {
   return (
     <div>
-    {/* <Ironman/> */}
-    <Intro/>
-    <Education/>
-    <Project/>
-    <WorkexperienceVol/>
-    <ExtraActivities/>
-    <ToolsLanguages/>
 
-   
-    {/* //<Captainshield/> */}
+      {/* <Ironman/> */}
+      <Navigbar/>
+
+     
+      <Intro />
+      <Education />
+      <Project />
+      <WorkexperienceVol />
+      <ExtraActivities />
+      <ToolsLanguages />
+
+
+      {/* //<Captainshield/> */}
     </div>
   );
 }

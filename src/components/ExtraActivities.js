@@ -2,7 +2,7 @@ import React from "react";
 
 const ExtraActivities = () => {
   return (
-    <div className="container">
+    <div className="container" id="extraactivity">
       <div className="row  my-5" style={{ width: "60%" }}>
         <div className=" bg-dark" style={{ color: "white" }}>
           <br />

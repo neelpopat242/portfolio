@@ -3,7 +3,7 @@ import "../App.css";
 
 const Intro = () => {
   return (
-    <div className="container">
+    <div className="container" id="intro">
       <div className="row  my-5" style={{ width: "60%" }}>
         <div className="col-sm-9 bg-dark" style={{ color: "white" }}>
           <br />

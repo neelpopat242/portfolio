@@ -3,7 +3,7 @@ import Stack from 'react-bootstrap/Stack';
 
 const Education = () => {
     return (
-        <div className= "container" >
+        <div className= "container" id ="education" >
             <Stack  gap={5} >
                 <div className="bg-dark  col-md-6 ps-3 pt-3 ms-auto" style={{color:"white"}}>
                     <h2>Education <i className="em em-mortar_board"  aria-label="GRADUATION CAP"></i></h2> 

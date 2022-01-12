@@ -3,7 +3,7 @@ import ProjectItem from "./ProjectItem";
 
 const Project = () => {
   return (
-    <div className="container ">
+    <div className="container" id="project">
       <div className="row align-items-start my-4" style={{ color: "white" }}>
         
           <h2 className="">
